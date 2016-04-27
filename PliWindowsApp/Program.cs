@@ -11,7 +11,7 @@ namespace PliWindowsApp
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome Continuous Integration using TeamCity");
-            Console.WriteLine("Please enter any key to exit!");
+            Console.WriteLine("Please enter any key to exit!")
             Console.Read();
         }
     }
